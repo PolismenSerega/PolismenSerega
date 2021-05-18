@@ -1,1 +1,1 @@
-🧐 I am begginner programming on Java programming language! 
+🧐 I am begginner programming on Python programming language! 
